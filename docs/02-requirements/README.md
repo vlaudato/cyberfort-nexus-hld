@@ -54,3 +54,7 @@ The following assumptions are given by the project specification or derived duri
 - Non-functional requirements use `NFR-xxx`.
 - The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in this document are to be interpreted as described in RFC 2119.
 - Each NFR includes a **measurable acceptance criterion**.
+
+---
+
+← [1. General](../01-general.md) · [2.1 Logical Requirements →](2.1-logical-requirements.md)

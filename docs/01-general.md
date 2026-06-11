@@ -24,3 +24,7 @@ The system is **detection-only**, meaning it doesn’t perform mitigation or act
 | -----------| ----------------------------------------------------------------------------------------------------------|
 | [PROJECT] | CyberFort Nexus — Course Project Specification                                                           |
 | [RFC2119] | Key words for use in RFCs to Indicate Requirement Levels — https://datatracker.ietf.org/doc/html/rfc2119 |
+
+---
+
+[2. Requirements →](02-requirements/README.md)
