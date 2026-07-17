@@ -30,5 +30,5 @@ All diagrams live in [`diagrams/`](diagrams/) and are referenced from the docume
 
 - [x] **MS1** — Preliminary solution diagram
 - [x] **MS2** — Requirements (Week 9)
-- [ ] **MS3** — HLD + Data + Security + Performance diagrams (Week 13)
-- [ ] **MS4** — Final submission
+- [x] **MS3** — HLD + Data + Security + Performance diagrams (Week 13)
+- [x] **MS4** — Final submission

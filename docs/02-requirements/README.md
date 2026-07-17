@@ -13,13 +13,13 @@ This section captures both functional and non-functional requirements for CyberF
 
 | Section | Scope |
 |---------|-------|
-| [2.3 Availability & Recovery](2.3-availability.md) | Uptime targets, failure modes, recovery objectives |
-| [2.4 Performance & Capacity](2.4-performance.md) | Throughput, latency, sizing tiers |
+| [2.3 Availability & Recovery](2.3-availability-recovery.md) | Uptime targets, failure modes, recovery objectives |
+| [2.4 Performance & Capacity](2.4-performance-capacity.md) | Throughput, latency, sizing tiers |
 | [2.5 Scalability](2.5-scalability.md) | Growth model, scaling axes, elasticity |
 | [2.6 Security](2.6-security.md) | Security requirements at all layers |
-| [2.7 Monitoring & Debugging](2.7-monitoring.md) | Observability, health, diagnostics |
+| [2.7 Monitoring & Debugging](2.7-monitoring-debugging.md) | Observability, health, diagnostics |
 | [2.8 Deployment](2.8-deployment.md) | Deployment model, packaging, platform constraints |
-| [2.9 Backward Compatibility](2.9-compatibility.md) | Upgrade paths, data migration |
+| [2.9 Backward Compatibility](2.9-backward-compatibility.md) | Upgrade paths, data migration |
 
 ## Assumptions
 
