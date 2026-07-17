@@ -8,13 +8,11 @@ CyberFort Nexus is an on-premises detection platform installed at enterprise net
 
 | # | Document | Status | Description |
 |---|----------|--------|-------------|
-| 1 | [General](docs/01-general.md) | **In Progress** | Introduction, glossary, references |
-| 2 | [Requirements](docs/02-requirements/) | **In Progress** | Functional and non-functional requirements, User Workflow |
-| 3 | [High-Level Design](docs/03-high-level-design/) | Planned | Architecture, components, flows, data |
-| 4 | [Time Estimation](docs/04-time-estimation.md) | Planned | Security architecture and threat model |
-| 5 | [Limitations & Reservations](docs/05-limitations-reservations.md) | Planned | Capacity planning, sizing tiers, benchmarks |
-| 6 | [Risks](docs/06-risks.md) | Planned | Known risks and mitigations |
-| 7 | [Open Issues](docs/07-open-issues.md) | Planned | Open Issues |
+| 1 | [General](docs/01-general.md) | Complete | Introduction, glossary, references |
+| 2 | [Requirements](docs/02-requirements/) | Complete | Functional and non-functional requirements, user workflows, sizing |
+| 3 | [High-Level Design](docs/03-high-level-design/) | **In Progress** | Architecture, runtime processes, design principles, upgradability |
+| 4 | [Time Estimation](docs/04-time-estimation.md) | Complete | Rough-order-of-magnitude implementation effort by workstream |
+| 5 | [Risks](docs/05-risks.md) | Complete | Architecture risks and mitigations |
 
 ## Architecture Decision Records
 
@@ -25,6 +23,8 @@ Significant design decisions are recorded as ADRs in [`docs/adrs/`](docs/adrs/).
 All diagrams live in [`diagrams/`](diagrams/) and are referenced from the documents.
 
 - [Preliminary Solution Diagram](diagrams/preliminary-solution.png) — MS1 submission
+- [Component and Data Flow Diagram](diagrams/component-data-flow-diagram.png) — logical components and interactions
+- [Logical Deployment View](diagrams/logical-deployment-view.png) — logical on-premises deployment groups and external interactions
 
 ## Milestones
 
